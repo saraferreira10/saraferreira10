@@ -31,6 +31,4 @@ I'm here beacause I love Information technology and I hope to work in this area 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saraferreira10&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saraferreira10)  
-
 ![Profile views](https://gpvc.arturio.dev/saraferreira10)  
