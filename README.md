@@ -8,14 +8,6 @@ I'm here beacause I love Information technology and I hope to work in this area 
 - 🌱 I’m currently learning Java 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saraferreira10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sara_ferreira10)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraferreira10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saraferreira10&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/saraferreira10)  
-
 <!--
 **saraferreira10/saraferreira10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
