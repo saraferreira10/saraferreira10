@@ -1,25 +1,13 @@
 
+
 ### Hi there 👋, my name is Sara
-#### I have fifteen years old and I am an IT student <3(https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
+#### I have fifteen years old and I am an IT student <3
+![I have sixteen years old and I am an IT student <3](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
 
 I'm here beacause I love Information technology and I hope to work in this area someday. All projects are just for practice and fun person. Thank u ;) 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java 
-
-
-<!--
-**saraferreira10/saraferreira10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
