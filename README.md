@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, my name is Sara
-#### I have fifteen years old and I am an IT student!
+#### I have sixteen years old and I am an IT student!
 
 All projects here are just for practice and fun person. Thank u ;) 
 
