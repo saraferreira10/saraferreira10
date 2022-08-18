@@ -7,6 +7,7 @@ All projects here are just for practice and fun person. Thank u ;)
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning MySQL 
 
 
 
