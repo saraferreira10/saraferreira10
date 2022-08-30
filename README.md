@@ -20,3 +20,4 @@ All projects here are just for practice and fun person. Thank u ;)
 </div>
           
 
+![Snake animation](https://github.com/saraferreira10/saraferreira10/blob/output/github-contribution-grid-snake.svg)
