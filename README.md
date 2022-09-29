@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hello 🌎, I am Sara</h1>
-### I have sixteen years old and I am an IT student!
+
+<br><br>
+I have sixteen years old and I am an IT student!
 
 All projects here are just for practice and fun person. Thank u ;) 
 
