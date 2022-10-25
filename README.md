@@ -3,14 +3,12 @@
 <h1 align="center">Hello 🌎, I am Sara</h1>
 
 <br><br>
-I have sixteen years old and I am an IT student!
+Tenho dezesseis anos e sou uma estudante de TI!
 
-All projects here are just for practice and fun person. Thank u ;) 
+Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac e planejo me tornar uma UI Designer e Desenvolvedora Front End.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Java 
-- 🌱 I’m currently learning MySQL 
-- 🌱 I’m currently learning MongoDB
+Thank You ;)
+
 <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
