@@ -5,7 +5,7 @@
 <br><br>
 Tenho dezesseis anos e sou uma estudante de TI!
 
-Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac e planejo me tornar uma UI Designer e Desenvolvedora Front End.
+Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac e planejo me especializar na área de Front End e UX Design.
 
 Thank You ;)
 
