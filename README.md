@@ -19,5 +19,4 @@ Thank You :)
 
 <br/><br/>
 
-![Snake animation](https://github.com/saraferreira10/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
