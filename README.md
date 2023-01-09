@@ -19,9 +19,5 @@ Thank You :)
 
 <br/><br/>
 
-  
-![saraferreira10's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraferreira10&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraferreira10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Snake animation](https://github.com/saraferreira10/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
