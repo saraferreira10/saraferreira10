@@ -6,7 +6,6 @@ public static void main(String[] args) {
         
         List<String> list = new ArrayList<>();
         
-        <br><br>
         System.out.println("Tenho dezesseis anos e sou uma estudante de TI!");
 
         System.out.println("Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac e amo aprender novas tecnologias!");
