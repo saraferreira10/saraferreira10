@@ -2,11 +2,23 @@
 
 <h1 align="center">Hello 🌎, I am Sara</h1>
 
-<br><br>
-Tenho dezesseis anos e sou uma estudante de TI!
+public static void main(String[] args) {
+        
+        List<String> list = new ArrayList<>();
+        
+        <br><br>
+        System.out.println("Tenho dezesseis anos e sou uma estudante de TI!");
 
-Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac e planejo me especializar na área de Front End e UX Design. Entretanto, AMO conhecer tudo sobre as áreas da tecnologia, por isso sou entusiasta Java e C#! 
+        System.out.println("Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac e amo aprender novas tecnologias!");
 
-Thank You :)
+        System.out.println("Estou estudando:")
+        list.add("- Java (SE - JavaFX, SceneBuilder, JDBC, Eclipse, Netbeans -, EE - Servlets, JSP, Hibernate -)");
+        list.add("- SQL");
+        list.add("- UX Design (Figma, Adobe XD)");
+        list.add("- HTML/CSS");
+
+        System.out.println("Thank You :)");
+
+}
 
 
