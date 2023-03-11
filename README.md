@@ -12,7 +12,8 @@ public static void main(String[] args) {
 
         System.out.println("Estou estudando:")
         list.add("- Java (SE - JavaFX, SceneBuilder, JDBC, Eclipse, Netbeans -, EE - Servlets, JSP, Hibernate -)");
-        list.add("- Desenvolvimento Híbrido com Flutter")
+        list.add("- Desenvolvimento Híbrido com Flutter");
+        list.add("- AWS - Fundamentos");
         list.add("- Padrões de Projeto e Metodologias Ágeis");
         list.add("- SQL");
         list.add("- UX Design (Figma, Adobe XD)");
