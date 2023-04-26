@@ -8,7 +8,7 @@ public static void main(String[] args) {
         
         System.out.println("Tenho dezesseis anos e sou uma estudante de TI!");
 
-        System.out.println("Atualmente, termino o curso técnico em Desenvolvimento de Sistemas - Senac!");
+        System.out.println("Atualmente, curso o técnico em Desenvolvimento de Sistemas - Senac!");
 
         System.out.println("Estou estudando:")
         list.add("- Java (SE - JavaFX, SceneBuilder, JDBC, Eclipse, Netbeans -, EE - Servlets, JSP -)");
