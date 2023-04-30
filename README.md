@@ -6,10 +6,6 @@ public static void main(String[] args) {
         
         List<String> list = new ArrayList<>();
         
-        System.out.println("Tenho dezesseis anos e sou uma estudante de TI!");
-
-        System.out.println("Atualmente, curso o técnico em Desenvolvimento de Sistemas - Senac!");
-
         System.out.println("Estou estudando:")
         list.add("- Java (SE - JavaFX, SceneBuilder, JDBC, Eclipse, Netbeans -, EE - Servlets, JSP -)");
         list.add("- Padrões de Projeto e Metodologias Ágeis");
