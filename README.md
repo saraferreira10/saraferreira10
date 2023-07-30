@@ -10,10 +10,10 @@ public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         
         System.out.println("Estou estudando:")
-        list.add("- Java (SE - JavaFX, SceneBuilder, JDBC, Eclipse, Netbeans -, EE - Servlets, JSP -)");
+        list.add("- Java");
         list.add("- Padrões de Projeto e Metodologias Ágeis");
         list.add("- SQL");
-        list.add("- UX Design (Figma, Adobe XD)");
+        list.add("- UX Design (Figma)");
         list.add("- HTML/CSS");
 
         System.out.println("Thank You :)");
