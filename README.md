@@ -5,11 +5,11 @@
 public static void main(String[] args) {
         
         String name = "Sara Ferreira";
-        int age = "17";
+        int age = 17;
         
         List<String> list = new ArrayList<>();
         
-        System.out.println("Estou estudando:")
+        System.out.println("Estou estudando:");
         list.add("- Java");
         list.add("- Padrões de Projeto e Metodologias Ágeis");
         list.add("- SQL");
