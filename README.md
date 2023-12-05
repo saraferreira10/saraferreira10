@@ -24,8 +24,5 @@ public class Main {
 }
 ```
 
-![HTML](https://via.placeholder.com/50x50.png?text=HTML) ![CSS](https://via.placeholder.com/50x50.png?text=CSS) ![JavaScript](https://via.placeholder.com/50x50.png?text=JavaScript)
-
-
 <p align="center">Dê uma olhada nos meus repositórios ⬇️</p>
 
