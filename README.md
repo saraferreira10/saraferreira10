@@ -1,9 +1,10 @@
 
 
-<h1 align="center">Hello 🌎, I am Sara</h1>
+<h1>Hello 🌎, I am Sara 👋</h1>
 
-public static void main(String[] args) {
-        
+```java
+public class Main {
+    public static void main(String[] args) {        
         String name = "Sara Ferreira";
         int age = 17;
         
@@ -18,4 +19,6 @@ public static void main(String[] args) {
 
         System.out.println("Thank You :)");
 
-}
+}```
+
+<p align="center">Dê uma olhada nos meus repositórios ⬇️</p>
