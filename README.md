@@ -12,13 +12,17 @@ public class Main {
         
         System.out.println("Estou estudando:");
         list.add("- Java");
-        list.add("- Padrões de Projeto e Metodologias Ágeis");
         list.add("- SQL");
         list.add("- UX Design (Figma)");
         list.add("- HTML/CSS");
+        list.add("- Javascript");
+        list.add("- React");
+        list.add("- Tailwind");
 
         System.out.println("Thank You :)");
-
-}```
+    }
+}
+```
 
 <p align="center">Dê uma olhada nos meus repositórios ⬇️</p>
+
