@@ -1,6 +1,6 @@
 
 
-<h1>Hello 🌎, I am Sara 👋</h1>
+<h1 align="center">Hello 🌎, I am Sara 👋</h1>
 
 ```java
 public class Main {
@@ -23,6 +23,9 @@ public class Main {
     }
 }
 ```
+
+![HTML](https://via.placeholder.com/50x50.png?text=HTML) ![CSS](https://via.placeholder.com/50x50.png?text=CSS) ![JavaScript](https://via.placeholder.com/50x50.png?text=JavaScript)
+
 
 <p align="center">Dê uma olhada nos meus repositórios ⬇️</p>
 
