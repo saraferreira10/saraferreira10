@@ -1,6 +1,8 @@
 
 
-<h1 align="center">Hello 🌎, I am Sara 👋</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73BEC&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%8C%8E%2C+I+am+Sara+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1>
 
 ```java
 public class Main {
