@@ -19,6 +19,3 @@ public class Main {
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=saraferreira10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<br/>
-<p align="center">Dê uma olhada nos meus repositórios ⬇️</p>
-
