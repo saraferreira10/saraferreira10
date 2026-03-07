@@ -16,6 +16,7 @@
 - ☁️ **Cloud:** **AWS Certified** Developer Associate & Cloud Practitioner.
 - 🎨 **Current Focus:** Crafting high-fidelity prototypes and accessible web applications.
 - 🕶️ **Fun fact:** I am currently improving my capabilities in **Extended Reality (XR)** at **@IREDE** and I'm also exploring **Python** for backend and data logic.
+- 🔤 Trying improving english.
 
 ---
 
