@@ -1,12 +1,31 @@
+<div align="center">
+  <h1>Hello 🌎, I am Sara!</h1>
+  <p><b>Full Stack Developer & UI/UX Design Enthusiast | Systems Analysis and Development Student @UFCA | AWS Certified</b></p>
 
-
-<h1>
-Hello 🌎, I am Sara! 
-</h1>
-
-<br/>
-<a href="https://github.com/saraferreira10">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraferreira10&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=saraferreira10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
+---
+
+### 🚀 About Me
+- 🎓 **Education:** Systems Analysis and Development (ADS) at **UFCA**.
+- ☁️ **Cloud:** **AWS Certified** Developer Associate & Cloud Practitioner.
+- 🎨 **Current Focus:** Crafting high-fidelity prototypes and accessible web applications.
+- 🕶️ **Fun fact:** I am currently improving my capabilities in **Extended Reality (XR)** at **@IREDE** and I'm also exploring **Python** for backend and data logic.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Frontend:** React, Next.js, Tailwind CSS, Responsive Design.
+- **UI/UX Design:** Figma, Nielsen's Heuristics, Wireframing, User Testing.
+- **Backend/Cloud:** Node.js, Python, PostgreSQL, AWS Services.
+- **Special Interests:** AR Prototyping.
+
+---
+
+### 📫 Let's talk!
+[LinkedIn](https://www.linkedin.com/in/saraferreira10/) | Caucaia - Ceará, Brazil 🇧🇷
